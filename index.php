@@ -1,4 +1,6 @@
 <?php
+phpinfo();
+exit;	
 	require_once 'parts/header.php';
 	require_once 'parts/navbar.php';
 	require('config/db.php');

@@ -1,0 +1,12 @@
+-- CREATE TABLE sneakers
+-- (
+--     id INT PRIMARY KEY NOT NULL,
+--     marque VARCHAR(100),
+--     modele VARCHAR(100),
+--     designation VARCHAR(100),
+--     prix_achat_USD INT,
+--     stockx_url VARCHAR(255),
+--     dhgate_url VARCHAR(255),
+--     created_date DATE
+
+-- )
